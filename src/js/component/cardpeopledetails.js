@@ -17,7 +17,7 @@ export function Cardpeopledetails(props) {
 							src="https://i.blogs.es/36e398/star-wars-eras/500_333.jpeg"
 							width="500"
 							height="300"
-							alt="Yoda and R2-D2"
+							alt=""
 						/>
 					</div>
 					<div className="col-md-6">
