@@ -18,7 +18,7 @@ export function Cardpeople(props) {
 			<div className="card d-flex" style={{ width: "18rem" }}>
 				<img
 					className="card-img-top"
-					src="https://www.telokwento.com/wp-content/uploads/2020/04/starwaars.jpg"
+					src="https://files.brainfall.com/wp-content/uploads/2015/10/which_star_wars_character_are_you_featured_large.jpg"
 					alt="Star Wars Image"
 				/>
 				<div className="card-body">
@@ -27,7 +27,7 @@ export function Cardpeople(props) {
 					<p className="card-text text-lg-left">Hair Color: {props.hair_color}</p>
 					<p className="card-text text-lg-left">Eyes Color: {props.eye_color}</p>
 					<Link to={"/people/" + props.id}>
-						<button className="btn btn-light float-left">Learn More!</button>
+						<button className="btn btn-warning float-left">Learn More!</button>
 					</Link>
 					<a
 						href="#"

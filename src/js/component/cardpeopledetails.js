@@ -14,7 +14,7 @@ export function Cardpeopledetails(props) {
 				<div className="row no-gutters">
 					<div className="col-md-6">
 						<img
-							src="https://assets.tonica.la/__export/1609876034823/sites/debate/img/2021/01/05/star-wars-yoda-r2-d2.jpg_242310155.jpg"
+							src="https://i.blogs.es/36e398/star-wars-eras/500_333.jpeg"
 							width="500"
 							height="300"
 							alt="Yoda and R2-D2"

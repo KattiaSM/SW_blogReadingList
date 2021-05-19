@@ -35,16 +35,16 @@ export const Navbar = () => {
 			<a className="navbar-brand" href="#">
 				<Link to="/">
 					<img
-						src="https://www.freepnglogos.com/uploads/star-wars-logo-png-8.png"
-						width="130"
-						height="80"
+						src="https://logos-download.com/wp-content/uploads/2016/09/Star_Wars_logo_black-700x700.png"
+						width="150"
+						height="150"
 						alt=""
 					/>
 				</Link>
 			</a>
 			<div className="dropdown">
 				<button
-					className="btn btn-warning dropdown-toggle"
+					className="btn btn-secondary dropdown-toggle"
 					type="button"
 					id="dropdownMenuButton"
 					data-toggle="dropdown"

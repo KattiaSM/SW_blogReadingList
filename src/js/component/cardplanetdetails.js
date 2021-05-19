@@ -13,7 +13,7 @@ export function Cardplanetdetails(props) {
 				<div className="row no-gutters">
 					<div className="col-md-6">
 						<img
-							src="https://d2cdo4blch85n8.cloudfront.net/wp-content/uploads/2019/08/Planet-with-Three-Suns-Discovered-Featured-image.jpg"
+							src="https://sm.ign.com/t/ign_in/gallery/e/every-plan/every-planet-and-location-in-star-wars-battlefront-2s-multip_te1n.1080.jpg"
 							width="500"
 							height="300"
 							alt="Star Wars Planet Image"
@@ -23,8 +23,13 @@ export function Cardplanetdetails(props) {
 						<div className="card-body">
 							<h5 className="card-title">{props.name}</h5>
 							<p className="card-text">
-								This is a wider card with supporting text below as a natural lead-in to additional
-								content. This content is a little bit longer.
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut vestibulum enim.
+								Quisque vel consectetur dolor, ut vulputate eros. Nullam sollicitudin malesuada urna at
+								interdum. Duis sollicitudin suscipit tellus in laoreet. Nulla tempus odio orci, non
+								egestas sem faucibus vel. Sed sollicitudin consectetur eros at scelerisque. Aliquam erat
+								volutpat. Proin tincidunt mattis nunc at condimentum. Integer massa erat, imperdiet at
+								vehicula ut, rutrum et sem. Curabitur sed nulla faucibus, vestibulum mi porta, porta
+								dui. In faucibus orci eu tincidunt placerat. Aenean pharetra finibus nisl in rhoncus.
 							</p>
 						</div>
 					</div>
